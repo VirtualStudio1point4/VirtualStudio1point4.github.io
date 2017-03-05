@@ -1,0 +1,85 @@
+body
+{
+height:auto;
+width: 840px;
+margin: 50px auto 50px auto;
+color:#666666;
+font-family: Sans-Serif;
+}
+
+.top
+{
+height:30px;
+width: 840px;
+margin: 10px 10px 40px 10px;
+}
+
+
+.menu
+{
+height:120px;
+width: 840px;
+margin: 10px 10px 20px 10px;
+}
+
+
+
+.content
+{
+font-size:14px;
+height:auto;
+width: 840px;
+margin: 10px 10px 40px 10px;
+}
+
+.text
+{
+height:auto;
+width: 300px;
+float: left;
+margin: 0px 0px 40px 0px;
+text-align: justify;
+}
+
+.choices
+{
+height:200px;
+width: 200px;
+float: left;
+margin: 0px 0px 40px 0px;
+}
+
+
+.content .images
+{
+height:auto;
+width: 510px;
+float: right;
+margin: 0px 3px 40px 0px;
+}
+
+
+.content .equaldivisionsright
+{
+height:auto;
+width: 405px;
+float: right;
+margin: 0px 3px 40px 0px;
+}
+.content .equaldivisionsleft
+{
+height:auto;
+width: 405px;
+float: left;
+margin: 0px 3px 40px 0px;
+}
+
+
+.footer {
+  font-size:10px;
+  height:100;
+ width: 840px;
+ margin: 10px 10px 20px 10px; 
+    position: fixed;
+    bottom: 0;
+}
