@@ -3,16 +3,17 @@
 height:auto;
 width:840px;
 border-collapse:collapse;
+text-align:justify
 }
 
-	#logo
+#logo
 	{
 	height:150px;
 	width:209px;
 	float:right;
 	}
 
-	#introtext
+#introtext
 	
 	{
 	height:300px;
