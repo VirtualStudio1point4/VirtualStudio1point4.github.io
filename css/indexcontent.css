@@ -1,0 +1,24 @@
+.contenttable
+{
+height:auto;
+width:840px;
+border-collapse:collapse;
+}
+
+	#logo
+	{
+	height:150px;
+	width:209px;
+	float:right;
+	}
+
+	#introtext
+	
+	{
+	height:300px;
+	width:500px;
+    float: left;
+    margin: 0px 0px 40px 0px;
+    text-align: justify;
+	}
+	
